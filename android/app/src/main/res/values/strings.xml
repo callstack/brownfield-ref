@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrownfieldRef</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Examples</string>
+    <string name="native_fragment_label">Native Fragment</string>
+</resources>
